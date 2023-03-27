@@ -20,8 +20,8 @@
           </Key>
         </key>
         <name value="samsung SM-M127F" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <target value="Android API 33" />
+        <api value="33" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
