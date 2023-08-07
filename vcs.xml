@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/ahmedmahmoud014/robustaTask.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/android/architecture-templates/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Downloads/android_apps_for_stcs" />
