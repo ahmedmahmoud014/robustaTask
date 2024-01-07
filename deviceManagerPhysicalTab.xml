@@ -19,9 +19,9 @@
             <value value="RF8T10JYQTF" />
           </Key>
         </key>
-        <name value="samsung SM-M127F" />
-        <target value="Android API 33" />
-        <api value="33" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
